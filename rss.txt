@@ -1,0 +1,25 @@
+<rss version="2.0">
+    <channel>
+    <title>Rss Test</title>
+    <link>http://www.buttes.com</link>
+    <description>hosted at github</description>
+    <item>
+        <title>Item 001</title>
+        <link>http://butttes.com/1.html</link>
+        <guid>b001</guid>
+        <p:imageLink>https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1638890166/EducationHub/photos/the-mittens.jpg</p:imageLink>
+        <pubDate>Sun, 20 Apr 2024 00:00:00 GMT</pubDate>
+        <description>Please ignore this I'm jsut fuckin around here with something</description>
+        <category>buttes</category>
+    </item>
+    <item>
+        <title>Item 002</title>
+        <link>http://buttes.com/002.html</link>
+        <guid>b002</guid>
+        <p:imageLink>https://www.universetoday.com/wp-content/uploads/2010/09/Monument_Valley_Merrick_Butte.jpg</p:imageLink>
+        <pubDate>Wed, 30 Apr 2024 00:00:00 GMT</pubDate>
+        <description>just clowning around, please disregard</description>
+        <category>buttes</category>
+    </item>
+    </channel>
+</rss>
